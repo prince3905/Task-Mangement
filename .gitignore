@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+dist/
+*.log
+npm-debug.log*
+
+# Angular
+/dist/
+/node_modules/
+/.vscode/
+/*.js
+/*.js.map
+*.stackdump
